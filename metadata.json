@@ -1,0 +1,7 @@
+{
+  "name": "Já vai - Ride Sharing Platform",
+  "description": "A comprehensive ride-sharing application featuring passenger booking, driver dashboards, earnings visualization, and AI-powered support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
